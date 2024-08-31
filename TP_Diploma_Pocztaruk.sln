@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP_Diploma_Pocztaruk", "TP_Diploma_Pocztaruk\TP_Diploma_Pocztaruk.csproj", "{D33F442F-4779-4141-B4D0-109A16B07E09}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "TP_Diploma_Pocztaruk\UI.csproj", "{D33F442F-4779-4141-B4D0-109A16B07E09}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BE", "BE\BE.csproj", "{A9E7C9DA-1C22-496B-B629-16E19F0A244C}"
 EndProject
